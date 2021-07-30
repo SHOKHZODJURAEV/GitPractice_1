@@ -1,10 +1,11 @@
 package day4;
 
 public class conflict {
-<<<<<<< HEAD
+//<<<<<<< HEAD
     // his is master branch content
-=======
-I can type anything what I want
+//=======
+//I can type anything what I want
     // this is collection branch content
->>>>>>> collection
+//>>>>>>> collection
+    // More work on collection2
 }
